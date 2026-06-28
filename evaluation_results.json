@@ -1,0 +1,11 @@
+{
+  "baseline_accuracy": 0.5789,
+  "finetuned_accuracy": 0.6316,
+  "improvement": 0.0526,
+  "test_set_size": 19,
+  "label_map": {
+    "hot_take": 0,
+    "banter": 1
+  },
+  "model": "distilbert-base-uncased"
+}
